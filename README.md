@@ -122,4 +122,4 @@ of `TwoStateLinearModel()`.
 
 Jagadeesan P, Raman K, Tangirala AK (2023) Sloppiness: Fundamental study, new
 formalism and its application in model assessment. PLoS ONE 18(3): e0282609.
-https://doi.org/10.1371/journal.pone.0282609
+https://doi.org/10.1371/journal.pone.0282609.
